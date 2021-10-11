@@ -3,9 +3,9 @@ entries:
   wasp-service-template:
   - apiVersion: v2
     appVersion: 0.0.6
-    created: "2021-10-06T14:54:22.744806833Z"
+    created: "2021-10-11T12:37:45.676362379Z"
     description: A Helm chart for wasp-service-template
-    digest: 9fcc031bc1f109f488a9af3dbc122b25376f2cd5c9ef9182001f991f2fd2b47d
+    digest: 3a9494b3b6b4abc9fb36b628b29c95c0341dfdaf402cc6dfb0217e6217cc4ffb
     maintainers:
     - email: opensource@digicatapult.org.uk
       name: digicatapult
@@ -85,4 +85,4 @@ entries:
     urls:
     - https://digicatapult.github.io/wasp-service-template/wasp-service-template-0.0.1.tgz
     version: 0.0.1
-generated: "2021-10-06T14:54:22.744269284Z"
+generated: "2021-10-11T12:37:45.675799572Z"

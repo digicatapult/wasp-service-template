@@ -1,0 +1,88 @@
+apiVersion: v1
+entries:
+  wasp-service-template:
+  - apiVersion: v2
+    appVersion: 0.0.6
+    created: "2021-10-06T14:54:22.744806833Z"
+    description: A Helm chart for wasp-service-template
+    digest: 9fcc031bc1f109f488a9af3dbc122b25376f2cd5c9ef9182001f991f2fd2b47d
+    maintainers:
+    - email: opensource@digicatapult.org.uk
+      name: digicatapult
+      url: www.digicatapult.org.uk
+    name: wasp-service-template
+    type: application
+    urls:
+    - https://digicatapult.github.io/wasp-service-template/wasp-service-template-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v2
+    appVersion: 0.0.5
+    created: "2021-09-21T15:02:42.712805792Z"
+    description: A Helm chart for wasp-service-template
+    digest: 8975c89eb5c1ae7d348e99eae8c7828e7e6dfaf7551b6bc05e91476e408fba02
+    maintainers:
+    - email: opensource@digicatapult.org.uk
+      name: digicatapult
+      url: www.digicatapult.org.uk
+    name: wasp-service-template
+    type: application
+    urls:
+    - https://digicatapult.github.io/wasp-service-template/wasp-service-template-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v2
+    appVersion: 0.0.4
+    created: "2021-09-13T16:32:20.485533934Z"
+    description: A Helm chart for wasp-service-template
+    digest: 45c45427a095f0206cf0f4a10fdeb2496079e53311d2f7f6ea389af4a07bc506
+    maintainers:
+    - email: opensource@digicatapult.org.uk
+      name: digicatapult
+      url: www.digicatapult.org.uk
+    name: wasp-service-template
+    type: application
+    urls:
+    - https://digicatapult.github.io/wasp-service-template/wasp-service-template-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v2
+    appVersion: 0.0.3
+    created: "2021-04-19T11:05:22.733367155Z"
+    description: A Helm chart for wasp-service-template
+    digest: eebc676e7b419f293a0fc4aaf639b2eb7dbcc8f9c195ec508cd08ffab53b16aa
+    maintainers:
+    - email: opensource@digicatapult.org.uk
+      name: digicatapult
+      url: www.digicatapult.org.uk
+    name: wasp-service-template
+    type: application
+    urls:
+    - https://digicatapult.github.io/wasp-service-template/wasp-service-template-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v2
+    appVersion: 0.0.2
+    created: "2021-04-09T13:51:34.676328521Z"
+    description: A Helm chart for wasp-service-template
+    digest: 441b680b8df3261d4f2d233a2a60c63e5787196d4a1d4ca2d965a2591413b966
+    maintainers:
+    - email: opensource@digicatapult.org.uk
+      name: digicatapult
+      url: www.digicatapult.org.uk
+    name: wasp-service-template
+    type: application
+    urls:
+    - https://digicatapult.github.io/wasp-service-template/wasp-service-template-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2021-04-09T13:51:34.676017819Z"
+    description: A Helm chart for wasp-service-template
+    digest: 04bdba0fc0fede8c2a1f8c10dee07227850f196356ec524a26d0bf52aae57add
+    maintainers:
+    - email: opensource@digicatapult.org.uk
+      name: digicatapult
+      url: www.digicatapult.org.uk
+    name: wasp-service-template
+    type: application
+    urls:
+    - https://digicatapult.github.io/wasp-service-template/wasp-service-template-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-10-06T14:54:22.744269284Z"

@@ -1,6 +1,6 @@
 {
   "name": "@digicatapult/wasp-service-template",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Service for WASP",
   "main": "app/index.js",
   "scripts": {
@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/digicatapult/wasp-service-template#readme",
   "dependencies": {
-    "dotenv": "^8.2.0",
+    "dotenv": "^16.3.1",
     "envalid": "^7.0.0",
     "express": "^4.17.1",
     "pino": "^6.11.1",
